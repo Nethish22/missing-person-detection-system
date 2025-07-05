@@ -1,0 +1,18 @@
+2025-03-16 22:01:15,393:ERROR:Error: [Errno 2] No such file or directory: './data/7.jpeg'
+2025-03-16 22:01:45,840:ERROR:Error: [Errno 2] No such file or directory: './data/8.jpeg'
+2025-03-16 22:02:05,993:ERROR:Error: [Errno 2] No such file or directory: './data/9.jpeg'
+2025-03-16 22:09:00,336:ERROR:Error: [Errno 2] No such file or directory: './data/10.jpeg'
+2025-04-18 21:25:31,834:ERROR:Error: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACb3b3f4b3b3b3b3b3b3b3b3b3b3b3b3b3/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Authenticate[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/20003[0m
+
+
